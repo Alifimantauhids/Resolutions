@@ -4,3 +4,4 @@ Rencana belajar
 - c# fundamental
 - javascript lebih dalam
   * node.js
+  * functional programming
