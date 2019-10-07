@@ -2,6 +2,7 @@ Rencana belajar
 - Data Science
 - python mechine learning
 - c# fundamental
+  * game
 - javascript lebih dalam
   * node.js
   * functional programming
