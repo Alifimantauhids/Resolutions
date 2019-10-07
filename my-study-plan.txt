@@ -3,3 +3,4 @@ Rencana belajar
 - python mechine learning
 - c# fundamental
 - javascript lebih dalam
+  * react
