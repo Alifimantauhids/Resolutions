@@ -1,4 +1,4 @@
 Rencana belajar
 - Data Science
-- python
-- c#
+- python mechine learning
+- c# fundamental
